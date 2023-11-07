@@ -21,4 +21,4 @@ The program is an immersive work in which we conducted consulting work for Marga
 
 ## Results
 
-Details on the FInal Report is restricted to certain purpose based on request
+Details on the FInal Report is restricted to certain purpose based on [request](mailto:tri.wgani@gmail.com)
