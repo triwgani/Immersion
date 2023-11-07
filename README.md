@@ -11,6 +11,5 @@ The program is an immersive work in which we conducted consulting work for Marga
 1. Conducted analysis on company’s vision and mission statement and how its implementation, analyzed competitive environment using the Five Forces framework, as well as conducted measurement for the  implementation level of learning organization in company business units using the Learning Organization  framework.
 2. Presenting results and findings in Exposure Phase of Immersion Program, as well as providing benchmark and potential collaborative mapping / matrix among business units, as the basis for providing recommendation for  company’s director.
 
-## Workflow
+## Workflow & Deliveries
 
-## Deliveries
